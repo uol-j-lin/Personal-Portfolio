@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-A personal static portfolio hosted with GitHub Pages, built using React and Bootstrap to showcase Github projects and skill set.
+A personal static portfolio hosted with GitHub Pages, built using React and Bootstrap to showcase GitHub projects and skill set.
 
 ### Live Demo: https://jjlin526.github.io    
 
