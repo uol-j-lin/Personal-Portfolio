@@ -12,7 +12,7 @@ A personal static portfolio hosted with GitHub Pages, built using React and Boot
 
 2. Clone the forked repository
 ```bash
-git clone https://github.com/<your-username>/home.git
+git clone https://github.com/jjlin526/Personal-Portfolio.git
 ```
 3. Tun the following bash commands to install dependencies and start the application
 ```bash
